@@ -1,4 +1,4 @@
-# 🕷️ Hi, I'm Dhananjay Mishra
+# Hi, I'm Dhananjay Mishra
 
 ### Backend Developer (AI Specialized)
 
@@ -28,6 +28,7 @@ I enjoy building production-ready systems that solve real-world problems using m
 * AI Engineering Roles
 * Freelance Opportunities
 * Open Source Contributions
+* Full-Time Backend/AI Roles
 
 ---
 
@@ -99,7 +100,7 @@ Production-grade REST API built with FastAPI, PostgreSQL, and SQLAlchemy featuri
 
 # 📫 Connect With Me
 
-* 📧 Email: **[mdhananjay775@gmail.com](mailto:mdhananjay775@gmail.com)**
+* 📧 Email: **[mdhananjay776@gmail.com](mailto:mdhananjay776@gmail.com)**
 * 💼 LinkedIn: **linkedin.com/in/dhananjay-mishra-y20**
 * 🐦 X (Twitter): **@MDhananjay776**
 * 💻 GitHub: **github.com/Rex-Code-debug**
